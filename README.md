@@ -1,4 +1,4 @@
-# Frontend Mentor - Invoice app solution
+# Invoice Generator
 
 This is a solution to the [Invoice app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/invoice-app-i7KaLTQjl). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
@@ -6,7 +6,6 @@ This is a solution to the [Invoice app challenge on Frontend Mentor](https://www
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -32,13 +31,6 @@ Users should be able to:
 ### Screenshot
 
 ![screenshot](./resources/preview.jpg)
-
-### Links
-
-- Solution URL: [https://www.frontendmentor.io/solutions/fullstack-mern-app-using-sass-hooks-and-context-api-84TdefWXi](https://www.frontendmentor.io/solutions/fullstack-mern-app-using-sass-hooks-and-context-api-84TdefWXi)
-- Live Site URL: [https://afternoon-retreat-02971.herokuapp.com/](https://afternoon-retreat-02971.herokuapp.com/)
-
-## My process
 
 ### Built with
 
@@ -76,12 +68,7 @@ const toggleDarkMode = () => {
 };
 ```
 
-### Continued learning
+### Future Scope
 
 Mostly what I'd like to improve on future projects is the file/folder structure for my applications. I would like to be more consistent with where I put specific file types and what types of code goes in each of those files in order to give my projects a more professional feel. This is particularly true for Context API with State and Reducer.
 
-## Author
-
-- [Jesse's Portfolio Website](https://www.codebyronda.com)
-- [Jesse's LinkedIn Profile](https://www.linkedin.com/in/jesse-ronda-46a6a1205)
-- [Jesse's Frontend Mentor Profile](https://www.frontendmentor.io/profile/jesse10930)
