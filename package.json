@@ -13,15 +13,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jesse10930/invoice-app.git"
+    "url": "git+https://github.com/Aditya0709-alt/mern-project.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jesse10930/invoice-app/issues"
+    "url": "https://github.com/Aditya0709-alt/mern-project/issues"
   },
-  "homepage": "https://github.com/jesse10930/invoice-app#readme",
+  "homepage": "https://github.com/Aditya0709-alt/mern-project#readme",
   "dependencies": {
     "config": "^3.3.6",
     "express": "^4.17.1",
