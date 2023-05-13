@@ -1,4 +1,4 @@
-# Invoice Generator
+# SmartBill
 
 
 ## Table of contents
